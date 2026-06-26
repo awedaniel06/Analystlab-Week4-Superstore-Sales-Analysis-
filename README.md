@@ -10,7 +10,8 @@ The dashboard enables business managers and stakeholders to monitor sales perfor
 
 ## Dashboard Preview
 
-![Sales Dashboard](Screenshot-2026-06-26115917.png)
+![Sales Dashboard](Week4Dashboard.png)
+
 ---
 
 ## Business Problem
